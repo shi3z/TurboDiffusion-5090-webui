@@ -519,11 +519,16 @@ We evaluate video generation on **a single RTX 5090 GPU**. The E2E Time refers t
 
 ## Roadmap
 
-We’re actively working on the following features and improvements:
+We're actively working on the following features and improvements:
 
+- [ ] Organize and release training code
 - [ ] vLLM-Omni integration
 - [ ] Support for more video generation models
 - [ ] Support for autoregressive video generation models
+- [ ] More hardware-level operator optimizations
+
+
+We welcome community members to help maintain and extend TurboDiffusion. We appreciate your interest in contributing. Welcome to join the TurboDiffusion Team and contribute together!
 
 
 ## Citation
