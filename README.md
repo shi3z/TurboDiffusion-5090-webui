@@ -4,7 +4,7 @@
 <img src=assets/TurboDiffusion_Logo.png width="30%"/>
 </div>
 
-This repository provides the official implementation of **TurboDiffusion**, a video generation acceleration framework that can accelerate end-to-end video generation by $100 \sim 205\times$ with negligible loss in video quality on a single RTX 5090. Currently, this repository contains the model checkpoints and inference code. The training code will be released in the future.
+This repository provides the official implementation of **TurboDiffusion**, a video generation acceleration framework that can speed up end-to-end diffusion generation by $100 \sim 205\times$ on a single RTX 5090, while maintaining video quality. Currently, this repository contains the model checkpoints and inference code. The training code will be released in the future.
 
 
 Paper: [TurboDiffusion: Accelerating Video Diffusion Models by 100--205 Times](https://jt-zhang.github.io/files/TurboDiffusion_Technical_Report.pdf)
